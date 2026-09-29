@@ -1,3 +1,8 @@
+Test account
+email : test01@gmail.com
+password : Test123@
+
+
 # Image
 
 Image is a creator publishing platform built with Next.js, Convex, Clerk, ImageKit, and Gemini. It lets authenticated creators write posts, save drafts, publish content, upload images, improve text with AI, and track audience activity from a dashboard. Public readers can browse the feed, view creator profiles, read posts, like content, comment, and follow creators.
