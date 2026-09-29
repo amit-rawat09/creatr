@@ -1,5 +1,5 @@
 Test account
-email : test01@gmail.com
+email : test02@gmail.com
 password : Test9780@
 
 
